@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about being an easy payment all over the word
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yo can send me email
-Jaguartokenteam@gmail.com
+info@jaguartoken.net
 
 <!---
 JAGUARTOKENTEAM/JAGUARTOKENTEAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
